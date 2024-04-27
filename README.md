@@ -1,11 +1,11 @@
 ## Hi there 👋 It's me Karthikeyan
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for help with Placements in ZOHO
-- 💬 Ask me about Tech
-- 📫 How to reach me :
+🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+🌱 I’m currently learning DSA
+ 👯 I’m looking to collaborate on ML/AI
+ 🤔 I’m looking for help with Placements in ZOHO
+ 💬 Ask me about Tech
+📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/KodeWithKarthik) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthikeyan-7680a92b9/)
 
 - 😄 Pronouns: Techie
